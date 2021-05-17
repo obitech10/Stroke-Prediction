@@ -10,8 +10,6 @@ import streamlit as st
 # SMOTE
 from imblearn.over_sampling import SMOTE
 
-import matplotlib.pyplot as plt
-
 # data split
 from sklearn.model_selection import train_test_split
 
